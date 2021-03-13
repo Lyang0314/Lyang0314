@@ -1,0 +1,8 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+
+
+Sitemap: https://ly0314.top/sitemap.xml
+Sitemap: https://ly0314.top/baidusitemap.xml
